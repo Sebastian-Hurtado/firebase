@@ -37,7 +37,7 @@ podemos ver que el dato fue actualizado pero podemos corroborar en firebase
 
 donde efectivamente el dato name se actualizo con el valor ingresado 
 
-por ultimo adjunto mi metodo main donde tuve que usar un metodo que me ayuda a pausar su ejecucion por 2 seg ya que la base de datos se demoraba un poco en darme respuesta y los mensajes es consola salian en desorden 
+por ultimo adjunto mi metodo main donde tuve que usar un metodo que me ayuda a pausar su ejecucion por 2 seg ya que la base de datos se demoraba un poco en darme respuesta y los mensajes en consola salian en desorden 
 ![image](https://github.com/Sebastian-Hurtado/firebase/assets/87822716/75933726-e1ed-45de-ae1c-171fc87d889d)
 
 
