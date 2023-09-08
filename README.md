@@ -13,13 +13,44 @@ luego llamo un metodo que llame remove el cual su finalidad es borrar un dato de
 y por ultimo llamo un metodo que se llama modificar el cual su finalidad es modificar un tipo de datos que queramos por consola y reemplazar ese valor con otro dato que podemos ingresar por consola 
 ![image](https://github.com/Sebastian-Hurtado/firebase/assets/87822716/5b7039bf-c137-4349-a0a1-02c716bccc4d)
 
-para este metodo use value of para tener el mismo tipo de dato que tenia la base de datos originalmente y que no quedara todo en string, adicional cree un metodo que se llama captura de datos que fue el que use para capturar todo por consola
+para este metodo use value of para tener el mismo tipo de dato que tenia la base de datos originalmente y que no quedara todo en string, adicional use lo que vimos hoy en clase sobre hacer un objeto y cambiara el tipo de dato de acuerdo a las necesidades del programa y cree un metodo que se llama captura de datos que fue el que use para capturar todo por consola
 ![image](https://github.com/Sebastian-Hurtado/firebase/assets/87822716/3aeac364-2cca-4e21-8d6c-8835e59d5840)
 
 adjunto imagenes de su funcionamiento por pasos 
 ![image](https://github.com/Sebastian-Hurtado/firebase/assets/87822716/e3163550-d322-42d5-ba78-b8ec530737c0)
 
 aca ingreso un dato que quiero ver 
+![image](https://github.com/Sebastian-Hurtado/firebase/assets/87822716/ea4a3f5b-70ee-45f5-a2d7-0b07b6a1a61e)
+
+podemos ver que ya nos mostro el dato y nos pide un dato que queremos borrar 
+
+![image](https://github.com/Sebastian-Hurtado/firebase/assets/87822716/861b664f-3ad6-49db-a12d-14db587c0681)
+
+donde podemos confirmar en firebase que el dato a sido borrado 
+![image](https://github.com/Sebastian-Hurtado/firebase/assets/87822716/e27da757-1e11-4e50-88ec-952577df40d6)
+
+continuamos ingresando el valor que quiero modificar 
+![image](https://github.com/Sebastian-Hurtado/firebase/assets/87822716/75ed2df7-976a-4840-8d33-e4a8beeada05)
+
+podemos ver que el dato fue actualizado pero podemos corroborar en firebase 
+![image](https://github.com/Sebastian-Hurtado/firebase/assets/87822716/51e81670-df75-43a4-a982-15c0744223f2)
+
+donde efectivamente el dato name se actualizo con el valor ingresado 
+
+por ultimo adjunto mi metodo main donde tuve que usar un metodo que me ayuda a pausar su ejecucion por 2 seg ya que la base de datos se demoraba un poco en darme respuesta y los mensajes es consola salian en desorden 
+![image](https://github.com/Sebastian-Hurtado/firebase/assets/87822716/75933726-e1ed-45de-ae1c-171fc87d889d)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
